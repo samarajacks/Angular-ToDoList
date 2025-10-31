@@ -2,6 +2,8 @@
 
 > Uma aplicação simples de uma lista de tarefas (**To-Do List**) desenvolvida com **Angular 17** e **Angular Material**.
 
+> 🎯 **Confira o projeto online:**  
+> 👉 [**Acessar TodoList**](https://angular-to-do-list-three.vercel.app/)
 ---
 
 ## 🧠 Sobre o Projeto
