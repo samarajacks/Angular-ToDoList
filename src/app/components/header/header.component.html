@@ -1,0 +1,9 @@
+<header class="header">
+  <mat-slide-toggle class="theme-toggle" [checked]="isLightMode" (change)="toggleTheme($event.checked)"></mat-slide-toggle>
+
+  <h1 class="header_title">To-Do List</h1>
+
+  <button mat-icon-button class="header_btn" aria-label="Adicionar nova tarefa" (click)="handleOpenModal()">
+    <mat-icon>add</mat-icon>
+  </button>
+</header>
